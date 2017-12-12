@@ -7,14 +7,10 @@
     },
     "dependencies": {
         "axios": "^0.17.1",
-        "chart.js": "^2.7.1",
         "framework7": "^1.5.3",
         "framework7-react": "^0.9.1",
-        "fs-readfile-promise": "^3.0.0",
         "react": "^15.4.2",
-        "react-chartjs": "^0.8.0",
-        "react-dom": "^15.4.2",
-        "util": "^0.10.3"
+        "react-dom": "^15.4.2"
     },
     "scripts": {
         "start": "react-scripts start",
